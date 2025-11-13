@@ -25,3 +25,11 @@ gemini的URL_context和自己手动保存网页并发送似乎不同，我主观
 # agent/代码补全
 
 windsurf, cursor, claude code, gemini cli
+
+# 防封号
+
+IP不要换来换去。要固定用一个IP，可以用 clash 的规则限定所有 AI 请求统统走 us 节点。设置的 us 节点挂了的情况下，直接连不上就行，这样就不至于会动态切换节点导致异常。
+
+# AI编程工具
+
+Amwir根据他的实测经验认为，编程工具排名依次是：Codex、Claude Code、Gemini CLI、Gemini Code Assist、GitHub Copilot CLI、Windsurf、Cursor、GitHub Copilot Chat
