@@ -1,17 +1,4 @@
-# 目录
-- [目录](#目录)
-- [科学上网](#科学上网)
-- [文字生成AI](#文字生成ai)
-- [图像生成](#图像生成)
-- [agent/代码补全](#agent代码补全)
-- [防封号](#防封号)
-- [AI编程工具](#ai编程工具)
-
-
 # 科学上网
-sdfsdfsdfsfsd
-sdgdfgsfasdasd
-dfhfhjfaare
 
 搜索关键字clash，在不少github仓库中有配置教程和服务推荐。
 
